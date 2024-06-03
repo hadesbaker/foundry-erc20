@@ -1,5 +1,12 @@
 # Foundry ERC20
 
+by Taki Baker Alyasri
+
+- GitHub: [hadesbaker](https://www.github.com/hadesbaker)
+- Twitter: [hadesbaker](https://www.twitter.com/hadesbaker)
+- LinkedIn: [Taki Baker](https://www.linkedin.com/in/taki-baker-4a60851a5/)
+- Portfolio: [takibaker.netlify.app](https://takibaker.netlify.app)
+
 # Getting Started
 
 ## Requirements
@@ -13,7 +20,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/hadesbaker/foundry-erc20
+git clone https://github.com/hadesbaker/foundry-erc20.git
 cd foundry-erc20
 make install
 forge build
