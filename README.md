@@ -105,13 +105,6 @@ Using cast deployed locally example:
 cast send <ERC20_CONTRACT_ADDRESS> "transfer()"  --value 0.1ether --private-key <PRIVATE_KEY> --rpc-url $SEPOLIA_RPC_URL
 ```
 
-or, to create a ChainlinkVRF Subscription:
-
-```
-make createSubscription ARGS="--network sepolia"
-```
-
-
 ## Estimate gas
 
 You can estimate how much gas things cost by running:
